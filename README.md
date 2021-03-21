@@ -1,6 +1,8 @@
-
+## Sign Up
 ![alt tag](https://github.com/lokesh-1161/chatapp/blob/main/Y1.jpg)
+## LogIn
 ![alt tag](https://github.com/lokesh-1161/chatapp/blob/main/Y2.jpg)
+## Chat Page
 ![alt tag](https://github.com/lokesh-1161/chatapp/blob/main/Y3.jpg)
 
 # Getting Started with Create React App
