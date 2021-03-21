@@ -4,6 +4,10 @@
 ![alt tag](https://github.com/lokesh-1161/chatapp/blob/main/Y2.jpg)
 ## Chat Page
 ![alt tag](https://github.com/lokesh-1161/chatapp/blob/main/Y3.jpg)
+## GraphQL
+![alt tag](https://github.com/lokesh-1161/chatapp/blob/main/Y4.jpg)
+## PlayGround
+![alt tag](https://github.com/lokesh-1161/chatapp/blob/main/Y5.jpg)
 
 # Getting Started with Create React App
 
