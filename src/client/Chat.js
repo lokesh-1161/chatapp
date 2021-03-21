@@ -11,7 +11,7 @@ import { WebSocketLink } from "@apollo/client/link/ws";
 import { Container, Row, Col, FormInput, Button } from "shards-react";
 
 const link = new WebSocketLink({
-  uri: `ws://localhost:8081/`,
+  uri: `ws://localhost:8081/subscriptions`,
   options: {
     reconnect: true,
   },
@@ -139,7 +139,7 @@ const Chat = () => {
             }}
           />
         </Col>
-        <Col xs={2} style={{ padding: 0 }}>
+        <Col xs={2} style={{ padding: 10 }}>
           <Button onClick={() => onSend()} style={{ width: "100%" }}>
             Send
           </Button>
