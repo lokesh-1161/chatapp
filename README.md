@@ -1,5 +1,5 @@
 
-![alt tag](http://url/to/img.png)
+![alt tag](https://github.com/lokesh-1161/chatapp/blob/main/Y1.jpg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
